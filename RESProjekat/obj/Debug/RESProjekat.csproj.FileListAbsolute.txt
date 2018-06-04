@@ -1,0 +1,21 @@
+C:\Users\Milan\source\repos\RESProjekat\RESProjekat\bin\Debug\RESProjekat.exe.config
+C:\Users\Milan\source\repos\RESProjekat\RESProjekat\bin\Debug\RESProjekat.exe
+C:\Users\Milan\source\repos\RESProjekat\RESProjekat\bin\Debug\RESProjekat.pdb
+C:\Users\Milan\source\repos\RESProjekat\RESProjekat\obj\Debug\RESProjekat.csprojAssemblyReference.cache
+C:\Users\Milan\source\repos\RESProjekat\RESProjekat\obj\Debug\RESProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\RESProjekat\RESProjekat\obj\Debug\RESProjekat.exe
+C:\Users\Milan\source\repos\RESProjekat\RESProjekat\obj\Debug\RESProjekat.pdb
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat\bin\Debug\RESProjekat.exe.config
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat\bin\Debug\RESProjekat.exe
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat\bin\Debug\RESProjekat.pdb
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat\obj\Debug\RESProjekat.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat\obj\Debug\RESProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat\obj\Debug\RESProjekat.exe
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat\obj\Debug\RESProjekat.pdb
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat\bin\Debug\RESProjekat.exe.config
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat\bin\Debug\RESProjekat.exe
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat\bin\Debug\RESProjekat.pdb
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat\obj\Debug\RESProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat\obj\Debug\RESProjekat.exe
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat\obj\Debug\RESProjekat.pdb
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat\obj\Debug\RESProjekat.csprojAssemblyReference.cache

@@ -1,0 +1,34 @@
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\bin\Debug\RESProjekat.Test.dll.config
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\bin\Debug\RESProjekat.Test.dll
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\bin\Debug\RESProjekat.Test.pdb
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\bin\Debug\Castle.Core.dll
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\bin\Debug\NSubstitute.dll
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\bin\Debug\nunit.framework.dll
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\bin\Debug\RESProjekat.exe
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\bin\Debug\RESProjekat.pdb
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\bin\Debug\RESProjekat.exe.config
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\bin\Debug\nunit.framework.xml
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\obj\Debug\RESProjekat.Test.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\obj\Debug\RESProjekat.Test.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\obj\Debug\RESProjekat.Test.csproj.CopyComplete
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\obj\Debug\RESProjekat.Test.dll
+C:\Users\Milan\Desktop\Fax\Presek u pola 11\RESProjekat\RESProjekat.Test\obj\Debug\RESProjekat.Test.pdb
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\bin\Debug\RESProjekat.Test.dll.config
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\bin\Debug\RESProjekat.Test.dll
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\bin\Debug\RESProjekat.Test.pdb
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\bin\Debug\Castle.Core.dll
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\bin\Debug\NSubstitute.dll
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\bin\Debug\nunit.framework.dll
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\bin\Debug\RESProjekat.exe
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\bin\Debug\RESProjekat.pdb
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\bin\Debug\RESProjekat.exe.config
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\bin\Debug\nunit.framework.xml
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\obj\Debug\RESProjekat.Test.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\obj\Debug\RESProjekat.Test.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\obj\Debug\RESProjekat.Test.csproj.CopyComplete
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\obj\Debug\RESProjekat.Test.dll
+C:\Users\Milan\Desktop\Fax\RESProjekat\RESProjekat.Test\obj\Debug\RESProjekat.Test.pdb
